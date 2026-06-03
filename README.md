@@ -1,5 +1,3 @@
-# rock-paper-scissors
-
 ## Rock-Paper-Scissors Game (Python)
 
 A simple, interactive command-line **Rock, Paper, Scissors** game built using Python. The game lets a user play against the computer, tracks the score across multiple rounds, and declares a final winner when the player decides to quit.
